@@ -1,2 +1,5 @@
 # IntroductionToRobotics
-Introduction to Robotics course( Homeworks and Projects )
+
+###Homework 0
+-setting up this repository
+-installing Arduino IDE
