@@ -1,6 +1,17 @@
-<h1> IntroductionToRobotics </h1>
+# IntroductionToRobotics
 
-<h2>Homework 0</h2>
-<p>-setting up this repository </p>
-<p>-installing Arduino IDE</p>
+###Homework #0
+-setting up this repository 
+-installing Arduino IDE
+
+###Homework #1
+
+#### Task requirements
+Control a RGB LED using 3 potentiometers.
+
+#### Picture
+![Homework1}
+
+#### Video
+https://www.youtube.com/shorts/155iOZfabvE
 
