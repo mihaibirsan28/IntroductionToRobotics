@@ -15,3 +15,4 @@ Control a RGB LED using 3 potentiometers.
 #### Video
 <a href =  "https://www.youtube.com/shorts/155iOZfabvE"><img src = "assets/Homework1-IntroductionToRobotics.jpeg"></a>
 
+### Homework #2
