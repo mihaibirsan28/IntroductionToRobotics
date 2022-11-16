@@ -56,3 +56,7 @@ Reset:  toggled by long pressing the buttononly in the first state.When resettin
 #### Picture
 ![Homework4](assets/Homework4-IntroductionToRobotics.jpeg)
 
+#### Video
+<a href =  "https://www.youtube.com/shorts/bqu_Di6dauc"><img src = "assets/Homework4-IntroductionToRobotics.jpeg"></a>
+
+
